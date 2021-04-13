@@ -6,7 +6,7 @@ I'm doing something on C# (plus WPF with XAML), sometimes C++ & Python, rarely H
 I love console applications with laggy graphics on crutches
 Now my main project is [UTCrypt](https://0eoc-0.github.io/UTCrypt/)
 
-## Contacts
+### Contacts
 
 Telegram: `@t0eoc`
 
