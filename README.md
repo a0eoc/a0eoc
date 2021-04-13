@@ -3,7 +3,9 @@ Hi, I’m θ̫͖͑͋ε̧̺̊̄ó̪̱̒͝ς
 My nickname in normal characters: 0eoc
 
 I'm doing something on C# (plus WPF with XAML), sometimes C++ & Python, rarely HTML & CSS
+
 I love console applications with laggy graphics on crutches
+
 Now my main project is [UTCrypt](https://0eoc-0.github.io/UTCrypt/)
 
 ### Contacts
