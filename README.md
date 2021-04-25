@@ -1,7 +1,4 @@
-Hi, I’m θ̫͖͑͋ε̧̺̊̄ó̪̱̒͝ς
-
-My nickname in normal characters: `0eoc`
-
+Hi, I’m `0eoc`
 
 I'm doing something on C# (plus WPF with XAML), sometimes C++ & Python, rarely HTML & CSS
 
