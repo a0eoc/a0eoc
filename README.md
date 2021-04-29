@@ -14,10 +14,7 @@ Discord: `θ̫͑͋ε̧̊̄ó̪̒͝ς#4935`
 
 E-Mail: `aa0eoc@gmail.com`
 
-VK: `@v0eoc`
+VK: `@v0eoc` - [link](https://vk.com/v0eoc)
 
+_(Not recommended)_ Twitter: `@t0eoc` - [link](https://twitter.com/t0eoc)
 
-<!---
-a0eoc/a0eoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
