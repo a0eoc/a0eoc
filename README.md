@@ -6,6 +6,8 @@ I love console applications with laggy graphics on crutches
 
 Now my main project is [UTCrypt](https://0eoc-0.github.io/UTCrypt/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0eoc&show_icons=true&theme=prussian&border_color=366FA0&custom_title=%F0%9F%93%88%20GitHub%20Stats&text_color=82C2FF&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contacts
 
 Telegram: `@t0eoc`
