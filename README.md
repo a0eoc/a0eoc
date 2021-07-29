@@ -2,7 +2,7 @@ I’m `0eoc` and you found me
 
 I'm doing something on C# (plus WPF with XAML), sometimes C++ & Python, rarely HTML & CSS
 
-And creatin' [UTCrypt](https://0eoc-0.github.io/UTCrypt/)
+Main project is [UTCrypt](https://github.com/a0eoc/UTCrypt)
 
 ### Contacts
 
